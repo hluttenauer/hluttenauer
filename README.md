@@ -1,16 +1,24 @@
-## Hi there 👋
+##  👋 Hi, I'm Hugo Luttenauer,
 
-<!--
-**hluttenauer/hluttenauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a freelance statistician transitioning into **football analytics**.  
+I use **R** to build models for:
 
-Here are some ideas to get you started:
+- 📊 Expected Goals (xG)
+- 🧠 Possession value & spatial metrics
+- 🎯 Passing networks
+- 🔍 Player profiling & recruitment analysis
+- 📈 Tactical insights using event & tracking data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Skills
+- R (tidyverse, StatsBombR, ggsoccer, ggplot2)
+- Statistical modelling & inference
+- Data visualization
+- Football tactical understanding (U17 coach)
+
+## 📁 Projects (upcoming)
+- xG model in R
+- Team tactical analysis
+- Passing network visualisation
+- Player profiling dashboard
+
+Stay tuned — new projects added every week!
